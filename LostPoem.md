@@ -4,6 +4,8 @@
  
  * * *
  
+ ```
+ 
  ** I lost a world the other day. **
  
  _Has anybody found?_
@@ -13,8 +15,9 @@
  Around its forehead bound.
  
  ```
+ 
+ ```
     
-
  ** A rich man might not notice it; **
     
  Yet to my frugal eye
@@ -22,6 +25,8 @@
  Of more esteem than ducats.
     
  _Oh, find it, sir, for me!_
+ 
+ ```
     
  * * *
     
