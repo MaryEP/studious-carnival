@@ -1,6 +1,8 @@
- # Lost #
+ # Lost 
  
- ### by Emily Dickinson ###
+ ### by Emily Dickinson 
+ 
+ * * *
  
  ** I lost a world the other day. **
  
@@ -19,8 +21,8 @@
     
  _Oh, find it, sir, for me!_
     
+ * * *
     
-    
- [Click here to view the original poem.](http://www.public-domain-poetry.com/emily-elizabeth-dickinson/lost-13615)
+ [Please click here to view the original poem.](http://www.public-domain-poetry.com/emily-elizabeth-dickinson/lost-13615)
     
 
