@@ -1,6 +1,6 @@
  # Lost
  
- ** I lost a world the other day.
+ ** I lost a world the other day. **
  
     _Has anybody found?_
     
@@ -9,7 +9,7 @@
     Around its forehead bound.
     
 
-    A rich man might not notice it;
+    ** A rich man might not notice it; **
     
     Yet to my frugal eye
     
@@ -17,6 +17,6 @@
     
     _Oh, find it, sir, for me!_
     
-    *http://www.public-domain-poetry.com/emily-elizabeth-dickinson/lost-13615*
+    [View the original poem here:](*http://www.public-domain-poetry.com/emily-elizabeth-dickinson/lost-13615*)
     
 
