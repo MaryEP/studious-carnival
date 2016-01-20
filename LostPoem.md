@@ -4,24 +4,23 @@
  
 * * *
  
->**I lost a world the other day.**
+**I lost a world the other day.**
  
-_Has anybody found?_
+>_Has anybody found?_
     
-You'll know it by the row of stars
+>You'll know it by the row of stars
     
-Around its forehead bound.   
+>Around its forehead bound.   
 
-
     
 
->**A rich man might not notice it;**
+**A rich man might not notice it;**
     
-Yet to my frugal eye
+>Yet to my frugal eye
     
-Of more esteem than ducats.
+>Of more esteem than ducats.
     
-_Oh, find it, sir, for me!_
+>_Oh, find it, sir, for me!_
  
 * * *
     
