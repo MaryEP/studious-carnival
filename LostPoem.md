@@ -10,7 +10,8 @@ _Has anybody found?_
     
 You'll know it by the row of stars
     
-Around its forehead bound.
+Around its forehead bound.  
+
  
 
 
@@ -23,8 +24,6 @@ Of more esteem than ducats.
     
 _Oh, find it, sir, for me!_
  
-```
-    
 * * *
     
 [Please click here to view the original poem.](http://www.public-domain-poetry.com/emily-elizabeth-dickinson/lost-13615)
