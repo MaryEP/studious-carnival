@@ -2,11 +2,9 @@
  
 ### by Emily Dickinson 
  
- * * *
+* * *
  
-```
- 
-** I lost a world the other day. **
+**I lost a world the other day.**
  
 _Has anybody found?_
     
@@ -14,11 +12,10 @@ You'll know it by the row of stars
     
 Around its forehead bound.
  
-```
- 
-```
+
+
     
-** A rich man might not notice it; **
+**A rich man might not notice it;**
     
 Yet to my frugal eye
     
